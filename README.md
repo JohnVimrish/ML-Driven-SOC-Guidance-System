@@ -1,5 +1,3 @@
-Based on your description of the Microsoft Security Incident Prediction project, here's a comprehensive GitHub README file:
-
 # Microsoft Security Incident Prediction Analysis 🔐📊
 
 ## Overview
